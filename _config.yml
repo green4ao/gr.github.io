@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://green4ao.github.io
+title: GreeN4ao
+tagline: Portfolio 
+description: Welcome to my Portfolio Page
+paginate: 2
